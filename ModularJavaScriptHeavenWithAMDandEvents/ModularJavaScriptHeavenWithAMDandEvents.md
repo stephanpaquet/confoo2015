@@ -8,11 +8,12 @@
 - [Slides](http://www.slideshare.net/eshiota/javascript-modular-e-eventdriven)
 
 
-- Bon tour d'horizon avec le livre "The good part"
+- Grand tour d'horizon avec le livre "The good part"
 ### Le problème avec JS
 
-- c'est peux vitre devenir bordelique
-- facile de tomber dans le piège d'avoir de multiples callback function
+- ça peux vite devenir bordelique
+- facile de tomber dans le piège d'utiliser de multiples callback function
+
 ## Solutions
 
 - AMD ([Asynchronous module definition](http://en.wikipedia.org/wiki/Asynchronous_module_definition))
