@@ -1,0 +1,19 @@
+{
+  "name": "example01",
+  "version": "0.0.0",
+  "homepage": "https://github.com/stephanpaquet/confoo2015",
+  "authors": [
+    "Stephan Paquet <stephanpaquet@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs-plugins": "~1.0.3"
+  }
+}

@@ -60,6 +60,7 @@
 - RequireJS is a JavaScript file and module loader
 - Permet de load de module en asynchome
 - Permet de loader des modules dynamiquement
+- Tutoriel d'introduction à require.js [http://www.ringabell.org/un-simple-guide-pour-debuter-avec-requirejs]](http://www.ringabell.org/un-simple-guide-pour-debuter-avec-requirejs)
 
 ### [Almond](https://github.com/jrburke/almond) 
 
