@@ -1,26 +1,13 @@
-http://joind.in/event/view/3246
-----------------------------------
-[Modular JavaScript Heaven with AMD and Events](ModularJavaScriptHeavenWithAMDandEvents/ModularJavaScriptHeavenWithAMDandEvents.md)
+#[Modular JavaScript Heaven with AMD and Events](ModularJavaScriptHeavenWithAMDandEvents/ModularJavaScriptHeavenWithAMDandEvents.md)
 Eduardo Shiota Yasuda
 
-
-
-----------------------------------
-The Future is Now: JavaScript, ES6, and Babel JS
+#[The Future is Now: JavaScript, ES6, and Babel JS](TheFutureIsNow-JavaScript-ES6-babel-JS/TheFutureIsNow-JavaScript-ES6-babel-JS.md1)
 Tim Griesser
-https://speakerdeck.com/tgriesser/the-future-is-now-javascript-es6-and-babel-js
-http://confoo.ca/fr/2015/session/the-future-is-now-javascript-es6-and-traceur
 
-----------------------------------
-Vertical Reusablility Through Components
+#[Vertical Reusablility Through Components](VerticalReusablilityThroughComponents/VerticalReusablilityThroughComponents.md)
 Volker Dusch
-http://confoo.ca/fr/2015/session/vertical-reuseablility-through-components
-https://dl.dropboxusercontent.com/u/3615626/slides/Vertical-reusability-through-components-PHPNW13-Manchester.pdf
 
-----------------------------------
-Deep Dive into Browser Performance
+# [Deep Dive into Browser Performance](DeepDiveIntoBrowserPerformance/DeepDiveIntoBrowserPerformance.md)
 Ilia Alshanetsky
-http://confoo.ca/fr/2015/session/deep-dive-into-browser-performance
-http://ilia.ws/files/confoo_Deep_Dive_into_Browser_Performance.pdf
 
-
+@see [http://joind.in/event/view/3246](http://joind.in/event/view/3246)
