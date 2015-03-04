@@ -78,9 +78,9 @@
     - Client - Des que le serveur informe qu'un épisode est disponible il le download
 
 
-```
-- torrentServer.on('a-specific-event', function (name) {});
-- this.trigger('a-specific-event', 'The name of the episode')
+```js
+torrentServer.on('a-specific-event', function (name) {});
+this.trigger('a-specific-event', 'The name of the episode')
 ```
 
 ## Mediator
