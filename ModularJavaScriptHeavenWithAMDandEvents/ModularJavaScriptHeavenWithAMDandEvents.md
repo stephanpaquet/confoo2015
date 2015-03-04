@@ -35,6 +35,7 @@
     - Permet de fournir une structure de code mieux structurer
     - Évite de polurer le scope global (window)
 ## Module pattern
+- https://www.youtube.com/watch?v=1U9e5Eg_rfs
 - Fournir un scope et permet d'avoir des variables et méthode publique et privées (@todo trouver un exemple)
     - ce qui est retournée par le module est la partie publique du module
 - C'est un genre singleton
