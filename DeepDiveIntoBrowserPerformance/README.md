@@ -171,7 +171,7 @@ for (var left = el.offsetLeft, top = el.offsetTop, i = 0; i < 100; i++, top += 1
 
 ## l'onglet Audit dans chrome avec DuProprio.com
 
-![onglet Audit dans chrome avec DuProprio.com][auditTabDP.png]
+![onglet Audit dans chrome avec DuProprio.com](auditTabDP.png)
 
 - namespace attribute selecteurs
 
