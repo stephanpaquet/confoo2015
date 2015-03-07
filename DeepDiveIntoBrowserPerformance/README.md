@@ -30,7 +30,8 @@ AAAFCAYAAACNbyblAAAAHElEQVQI12P4//8/w38GIAXDIBKE0DHxgljNBAAO
 9TXL0Y4OHwAAAABJRU5ErkJggg==" alt="Red dot" />
 ```
 
-[voir aussi](baseImage.html) 
+[voir aussi](baseImage.html)
+
 ---
 
 #### 2) Limiter le nombre de requête au serveur en utilisant les sprites
