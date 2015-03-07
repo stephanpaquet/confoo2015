@@ -103,6 +103,7 @@ $(document).ready(function () {
 - Loader que le contenue affichable (grid, tabs, ...)
     - Utiliser le leazy loading
 - Avoid passing objects
+- namespace attribute selecteurs
 - Évitez les variables globales
 - [Use closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
 
@@ -173,10 +174,10 @@ for (var left = el.offsetLeft, top = el.offsetTop, i = 0; i < 100; i++, top += 1
 
 ![onglet Audit dans chrome avec DuProprio.com](auditTabDP.png)
 
-- namespace attribute selecteurs
 
-
-
+### CSS Tools
+- [https://github.com/Cerdic/CSSTidy](https://github.com/Cerdic/CSSTidy) - PHP
+- [http://devilo.us](http://devilo.us) - Web-based
 
 ## @voir 
 - 
