@@ -12,3 +12,6 @@ Ilia Alshanetsky
 
 ---
 @see [http://joind.in/event/view/3246](http://joind.in/event/view/3246)
+
+---
+Markdown Cheat Sheet : [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
