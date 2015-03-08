@@ -1,13 +1,13 @@
-##[Modular JavaScript Heaven with AMD and Events](ModularJavaScriptHeavenWithAMDandEvents/ModularJavaScriptHeavenWithAMDandEvents.md)
+##[Modular JavaScript Heaven with AMD and Events](ModularJavaScriptHeavenWithAMDandEvents/)
 Eduardo Shiota Yasuda
 
-##[The Future is Now: JavaScript, ES6, and Babel JS](TheFutureIsNow-JavaScript-ES6-babel-JS/TheFutureIsNow-JavaScript-ES6-babel-JS.md)
+##[The Future is Now: JavaScript, ES6, and Babel JS](TheFutureIsNow-JavaScript-ES6-babel-JS/)
 Tim Griesser
 
-##[Vertical Reusablility Through Components](VerticalReusablilityThroughComponents/VerticalReusablilityThroughComponents.md)
+##[Vertical Reusablility Through Components](VerticalReusablilityThroughComponents/)
 Volker Dusch
 
-##[Deep Dive into Browser Performance](DeepDiveIntoBrowserPerformance/DeepDiveIntoBrowserPerformance.md)
+##[Deep Dive into Browser Performance](DeepDiveIntoBrowserPerformance/)
 Ilia Alshanetsky
 
 ---
